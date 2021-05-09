@@ -2,6 +2,8 @@
 
 the most starred Github repos created in the last 30 days
 
+https://starred-repos.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Github API 
