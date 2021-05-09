@@ -1,0 +1,16 @@
+.card {
+  margin: auto;
+  margin-bottom: 3vh;
+}
+
+  
+ ul {
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+ li {
+  display: inline-block;
+}
+
